@@ -1,3 +1,8 @@
+#Author: Edward Natykach
+#Last Edited: 02/25/25
+#Tells the user about 6 different data types in computer programming by printing 6 variables and telling the user the data type
+#Has comments on each variable in the code
+
 #the char data type stores a single character
 u = 'j'
 print("u is a variable that stores the character", u)
