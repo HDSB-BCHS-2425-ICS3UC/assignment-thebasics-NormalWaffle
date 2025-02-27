@@ -1,10 +1,11 @@
 #Author: Edward Natykach
 #Last Edited: 02/25/25
-#Tells the user about
-
+#Tells the user about  a few different mathematical operations possible in python
+#The comments also state what each operation does
 
 import math
 
+#This prints the beginning statement
 print("Here are some mathematical operations possible in python:")
 
 #Adds 2 numbers together
